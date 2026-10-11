@@ -7,7 +7,7 @@ Interactive dashboard analysing why employees leave, built on IBM's HR Analytics
 ![Dashboard](dashboard.png)
 
 ## Tools
-MySQL (segmentation, window functions) · Tableau Public (dashboard, filter actions)
+MySQL (segmentation) · Tableau Public (dashboard, filter actions)
 
 ## Dataset
 [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
@@ -24,5 +24,5 @@ MySQL (segmentation, window functions) · Tableau Public (dashboard, filter acti
 3. Investigate Sales compensation and workload, as it is the highest-attrition department.
 
 ## Repository
-- `/sql`: analysis queries
-- `/screenshots`: dashboard image
+- `hr_attrition_queries.sql`: analysis queries
+- `dashboard.png`: dashboard screenshot
